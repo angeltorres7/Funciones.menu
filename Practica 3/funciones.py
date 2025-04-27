@@ -3,7 +3,7 @@ nume1 = int(input("Dame el primer valor: "))
 nume2 = int(input("Dame el segundo valor: "))
 
 
-#Funciones para poder hacer las operaciones
+#Aqui se hacen las funciones para poder hacer las operaciones
 def suma(num1,num2):
     suma = num1 + num2
     print(f"El resultado de la suma es: {suma}")
@@ -19,7 +19,7 @@ def division(num1,num2):
 def mult(num1,num2):
     mult = num1 * num2
     print(f"El resultado de la multiplicacion es: {mult}")
-#Hacemos menu de opciones 
+#despues desarrollamos el menú de opciones para que solo se complete una función.
 if __name__ == "__main__":
     letrero = """ MENU DE OPCIONES
     1. Suma
@@ -40,3 +40,4 @@ if __name__ == "__main__":
         print("Adios")
     else:
         print("Error. Ingrese una opcion valida")
+#Eso es todo, Soy Torres Pérez Roberto Angel.
