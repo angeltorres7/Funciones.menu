@@ -41,3 +41,4 @@ if __name__ == "__main__":
     else:
         print("Error. Ingrese una opcion valida")
 #Eso es todo, Soy Torres Pérez Roberto Angel.
+#Lo que hace el código es hacer diferentes operaciones con los valores o variables que introduzca el usuario, como la suma, los valores que introduzca el usuario se suman y el menú de opciones es para que solo se cumpla una de las 4 opercaiones, se cumple la ue el usuario elige en el menú de opciones 
